@@ -1,0 +1,2 @@
+<?php
+return ['@class'=>'Grav\\Common\\File\\CompiledYamlFile','filename'=>'C:/MAMP/htdocs/grav-admin/user/config/system.yaml','modified'=>1795582287,'size'=>374,'data'=>['home'=>['alias'=>'/home'],'pages'=>['theme'=>'quark2'],'cache'=>['enabled'=>true,'check'=>['method'=>'file']],'assets'=>['css_pipeline'=>false,'js_pipeline'=>false,'enable_asset_timestamp'=>false],'errors'=>['display'=>0,'log'=>true],'debugger'=>['enabled'=>false,'provider'=>'clockwork'],'gpm'=>['releases'=>'stable','verify_peer'=>true],'updates'=>['safe_upgrade'=>true,'safe_upgrade_snapshot_limit'=>5]]];

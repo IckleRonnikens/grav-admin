@@ -1,0 +1,2 @@
+<?php
+return ['@class'=>'Grav\\Common\\File\\CompiledYamlFile','filename'=>'C:/MAMP/htdocs/grav-admin/user/accounts/ickles.yaml','modified'=>1795798576,'size'=>310,'data'=>['state'=>'enabled','email'=>'ickleronnikens@gmail.com','fullname'=>'ickles','title'=>'Administrator','access'=>['site'=>['login'=>true],'api'=>['super'=>true]],'hashed_password'=>'$2y$12$jSnBph3LZ7l2/gy0EfPQGeiKdUqpkkCuziB7a2QMTT/7ga2SSGXLO','created'=>1795798576,'modified'=>1795798576,'avatar'=>[],'twofa_enabled'=>false,'twofa_secret'=>'']];
